@@ -1,2 +1,2 @@
 # Project1
-First Project in ITM 301 course
+First Project in ITM 361 course
